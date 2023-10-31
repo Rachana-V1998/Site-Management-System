@@ -1,7 +1,7 @@
-## Site Management
+## site mangement
 
-Site Management System
+site mangement system
 
 #### License
 
-Site Management
+site management

@@ -9,7 +9,7 @@ from site_management import __version__ as version
 setup(
 	name="site_management",
 	version=version,
-	description="Site Management System",
+	description="site mangement system",
 	author="rachana",
 	author_email="rachanavarade1998@gmail.com",
 	packages=find_packages(),

@@ -1,11 +1,11 @@
 from . import __version__ as app_version
 
 app_name = "site_management"
-app_title = "Site Management"
+app_title = "site mangement"
 app_publisher = "rachana"
-app_description = "Site Management System"
+app_description = "site mangement system"
 app_email = "rachanavarade1998@gmail.com"
-app_license = "Site Management"
+app_license = "site management"
 
 # Includes in <head>
 # ------------------
